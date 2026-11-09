@@ -26,7 +26,7 @@ report/individual/assets/yolo26_runs/      log train và ảnh chỉ số model 
 notebooks/day2_annotation_to_yolo.ipynb     notebook của bài
 ```
 
-Đổi `MSSV_HoTen.md` thành tên thật, ví dụ `20241234_NguyenVanAn.md`. Báo cáo ghi link Colab đã chạy, precision/recall/mAP của model và đường dẫn ảnh đánh giá trên 10 ảnh `eval`. Không chép số minh họa hoặc kết quả của người khác thành kết quả của mình.
+Đổi `03140_NguyenVietTien.md` thành tên thật, ví dụ `20241234_NguyenVanAn.md`. Báo cáo ghi link Colab đã chạy, precision/recall/mAP của model và đường dẫn ảnh đánh giá trên 10 ảnh `eval`. Không chép số minh họa hoặc kết quả của người khác thành kết quả của mình.
 
 Giữ các file script, ảnh và cấu hình gốc trong bản làm việc để chạy lại; không đổi tên ảnh hoặc ID lớp. Không thêm gold train, tài liệu giảng viên, token, mật khẩu hay checkpoint `.pt` vào repo bài nộp.
 
@@ -94,7 +94,7 @@ Không commit `gold_train_labels/` hoặc file ZIP chứa gold. Colab chỉ clon
 
 ## Kiểm tra trước khi nộp
 
-- [ ] Repo bài làm đúng tên; báo cáo đã đổi thành `MSSV_HoTen.md`.
+- [ ] Repo bài làm đúng tên; báo cáo đã đổi thành `03140_NguyenVietTien.md`.
 - [ ] Có 50 file nhãn YOLO, cùng basename với ảnh train; checker chạy đạt.
 - [ ] Mini guideline có định nghĩa lớp, quy tắc box và ít nhất 3 ca mơ hồ có lý do.
 - [ ] Có JSON đánh giá annotation; kết quả trước/sau rework được ghi rõ nếu có.

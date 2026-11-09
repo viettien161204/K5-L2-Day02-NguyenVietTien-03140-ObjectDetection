@@ -31,8 +31,8 @@ Không gán nhãn đối với vật thể vừa bị mờ vừa bị che khuấ
 
 ## Ghi lại quyết định cho ít nhất ba ca mơ hồ
 
-| Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
-| --- | --- | --- | --- |
-| `drive_001` |xe bị che sau 1 car không xác định được loại xe nào|không đánh nhãn |bị che quá 50% và bị xa và mờ |
-| `drive_016` |không phân biệt được xe van hay truck vì chỉ có hình ảnh đầu xe |không đánh nhãn |không xác định được loại xe do góc nhìn |
-| `drive_050` |không phân biệt được xe van hay car vì chỉ có hình ảnh đầu xe |không đánh nhãn |không xác định được loại xe do góc nhìn |
+| Ảnh | Tình huống                                                                   | Quyết định cuối     | Lý do theo schema                       |
+| --- |------------------------------------------------------------------------------|---------------------|-----------------------------------------|
+| `drive_001` | xe bị che sau 1 car không xác định được loại xe nào                          | không đánh nhãn     | bị che quá 50% và bị xa và mờ           |
+| `drive_016` | không phân biệt được xe van hay truck vì chỉ có hình ảnh đầu xe (xe màu cam) | không đánh nhãn     | không xác định được loại xe do góc nhìn |
+| `drive_050` | không phân biệt được xe van hay car vì chỉ có hình ảnh đầu xe   (xe màu xám) | có đánh nhãn xe van | vẫn xác định được loại xe               |
